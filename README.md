@@ -47,3 +47,4 @@ A scatter plot is created to visualize the actual vs. predicted unemployment rat
 Finally, the model is used to predict the unemployment rate for future data based on given values for the number of employed individuals and the labor participation rate. The predicted value is printed as the output.
 
 In summary, this code loads, cleans, and visualizes unemployment data, builds a linear regression model to predict the unemployment rate, evaluates the model's performance, and makes predictions for future scenarios.
+***OUTPUT***:![Image](https://github.com/user-attachments/assets/d42b7ce8-bda8-44f4-b0f4-8bdc9b3c473d)
